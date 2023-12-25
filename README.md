@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Rust,Go lang**
 
-- 👨‍💻 All of my projects are available at [https://flowcv.me/udaykirankallem](https://flowcv.me/udaykirankallem)
-
 - 💬 Ask me about **Reactjs,Blockchain,Crypto**
 
 - 📫 How to reach me **udaykirankallem1999@gmail.com**
