@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SmartContract Auditing**
 
-- 🌱 I’m currently learning **Rust,Go lang**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Reactjs,Blockchain,Crypto**
 
