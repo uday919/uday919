@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uday919" alt="uday919" /></a> </p>
 
-- 🔭 I’m currently working on **AI & Blockchain**
+- 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Blockchain,Crypto,AI**
+- 💬 Ask me about **Blockchain,Crypto**
 
 - 📫 How to reach me **kallemudaykiran05@gmail.com**
 
