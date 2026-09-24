@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uday919" alt="uday919" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working As **Data Engineer**
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Blockchain,Crypto**
-
-- 📫 How to reach me **kallemudaykiran05@gmail.com**
+- 📫 How to reach me **kallemudaykiran16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
